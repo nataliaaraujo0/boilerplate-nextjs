@@ -3,7 +3,7 @@
 
 
 #### Configurações:
-- páginas e  css global com Chakra UI. 
+- páginas e  css global (fontes, cores...) com Chakra UI. 
 
 #### Tecnologias usadas:
 Next.js, Typescript e Chakra UI.
