@@ -1,8 +1,8 @@
-Simples boilerplate com Nextjs  [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Simples boilerplate com Next.js  [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Técnologias:
 
-Simples boilerplate com Nextjs :
+Next.js, Typescript e Chakra UI.
 
 ```bash
 npm run dev
