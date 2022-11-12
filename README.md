@@ -4,6 +4,8 @@ Simples boilerplate com Next.js  [`create-next-app`](https://github.com/vercel/n
 
 Next.js, Typescript e Chakra UI.
 
+### Como usar:
+
 ```bash
 npm run dev
 # or
